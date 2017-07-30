@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php 
 include "includes/db.php";
 include "includes/header.php";
@@ -84,8 +84,4 @@ include "includes/header.php";
 </body>
 
 </html>
-=======
-<?php
-    phpinfo();
-?>
->>>>>>> 44cbc5ba7efa37f0d8a624ee0c2bae5df5d65aca
+
